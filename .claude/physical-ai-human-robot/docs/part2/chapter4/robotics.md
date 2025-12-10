@@ -19,3 +19,14 @@ The development of new and improved robots is an active area of research. Resear
 1.  How does robotics serve as a key enabling technology for Physical AI, and what role does it play in AI's interaction with the physical world?
 2.  List and briefly describe three different types of robots mentioned, along with their primary applications.
 3.  What are the ongoing research efforts in robotics aimed at advancing Physical AI systems?
+
+## Solutions
+
+1.  **Role in Physical AI:** Robotics provides the physical body that allows AI to interact with the world, acting as a key enabling technology. This physical embodiment is crucial for AI to perceive and act within its environment.
+2.  **Types of Robots and Applications:**
+    *   **Industrial robots:** Used in manufacturing for tasks like welding, painting, and assembly.
+    *   **Service robots:** Perform tasks for humans, such as cleaning, delivering food, or assisting the elderly.
+    *   **Medical robots:** Used in healthcare for surgery, diagnosis, and rehabilitation.
+    *   **Military robots:** Employed for surveillance, reconnaissance, and combat.
+    *   **Exploration robots:** Designed for exploring dangerous or inaccessible environments like deep seas or outer space.
+3.  **Ongoing Research Efforts:** Researchers are focused on developing robots that are more intelligent, adaptable, and capable of performing a wider range of tasks to enhance future Physical AI systems.

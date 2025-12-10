@@ -11,3 +11,9 @@ The development of new and improved sensors and actuators is an active area of r
 1.  Explain the primary functions of sensors and actuators in a Physical AI system.
 2.  How does the application of a Physical AI influence the selection of its sensors and actuators? Provide an example.
 3.  What are the current research trends in the development of sensors and actuators for Physical AI?
+
+## Solutions
+
+1.  **Primary Functions:** Sensors detect and measure physical properties of the environment (e.g., light, sound, temperature) to provide information for AI decisions. Actuators convert electrical signals into physical motion to control the AI's body (e.g., limbs, wheels).
+2.  **Influence of Application:** The specific application dictates the choice. For example, a self-driving car requires diverse sensors like cameras, radar, and lidar for perception, and actuators for steering, acceleration, and braking.
+3.  **Research Trends:** Current research focuses on developing smaller, more sensitive, and energy-efficient sensors, as well as new types of actuators capable of more complex and lifelike movements.

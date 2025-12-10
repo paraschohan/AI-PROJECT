@@ -17,3 +17,12 @@ The development of new and improved exoskeletons and prosthetics has the potenti
 1.  What is the primary difference between exoskeletons and prosthetics, and how do they each enhance physical abilities?
 2.  Describe two distinct application areas for exoskeletons and prosthetics, providing examples of how they are used.
 3.  What are the current research priorities in the development of these devices to improve user experience and functionality?
+
+## Solutions
+
+1.  **Primary Difference:** Exoskeletons are external skeletons that augment a user's existing physical capabilities (e.g., strength, endurance). Prosthetics are artificial limbs designed to replace a missing or damaged limb. Both enhance physical abilities, but exoskeletons augment, while prosthetics replace and restore.
+2.  **Application Areas:**
+    *   **Medical:** Exoskeletons assist individuals with disabilities in walking or standing; prosthetics replace missing limbs.
+    *   **Military:** Exoskeletons boost soldiers' strength for heavier loads; advanced prosthetics can enhance capabilities beyond natural limits.
+    *   **Industrial:** Exoskeletons aid factory workers in lifting heavy objects.
+3.  **Research Priorities:** Current research focuses on making devices more lightweight, comfortable, powerful, and developing thought-controlled interfaces for natural and intuitive user experience.

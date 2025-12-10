@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Physical-AI: Where Intelligence Meets the Real World</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap');
+
+        :root {
+            --primary-color: #00796B; /* Rich Teal */
+            --secondary-color: #FFC107; /* Muted Gold */
+            --dark-color: #263238; /* Dark Blue Grey */
+            --light-color: #F8F8F8; /* Very Light Grey */
+            --text-color-dark: #333333; /* Dark Charcoal */
+            --text-color-light: #FFFFFF; /* White */
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            line-height: 1.6;
+            color: var(--text-color-dark);
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        header {
+            background: var(--dark-color);
+            color: var(--text-color-light);
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+            gap: 2rem;
+        }
+
+        nav a {
+            color: var(--text-color-light);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .hero {
+            background: linear-gradient(135deg, #263238, #37474F); /* Dark Blue Grey Gradient */
+            color: var(--text-color-light);
+            text-align: center;
+            padding: 12rem 0 8rem;
+        }
+
+        .hero h1 {
+            font-size: 3.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .hero p {
+            font-size: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background: var(--primary-color);
+            color: var(--text-color-light);
+            padding: 1rem 2rem;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1.1rem;
+        }
+
+        section {
+            padding: 6rem 0;
+        }
+
+        section h2 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 4rem;
+        }
+        
+        .blurb {
+            background: var(--light-color);
+        }
+
+        .blurb p {
+            max-width: 800px;
+            margin: 0 auto;
+            font-size: 1.25rem;
+            text-align: center;
+        }
+
+        .features .feature-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .features .card {
+            background: #fff;
+            padding: 2.5rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+            text-align: center;
+        }
+
+        .features .card h3 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .feature-1 {
+            background: linear-gradient(135deg, #4DD0E1, #26C6DA); /* Light Cyan to Cyan */
+            color: var(--text-color-dark);
+        }
+
+        .feature-2 {
+            background: linear-gradient(135deg, #81C784, #4CAF50); /* Light Green to Green */
+            color: var(--text-color-dark);
+        }
+
+        .feature-3 {
+            background: linear-gradient(135deg, #FFB74D, #FF9800); /* Light Orange to Orange */
+            color: var(--text-color-dark);
+        }
+
+        .author {
+            background: var(--light-color);
+        }
+
+        .author .author-bio {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 3rem;
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: left;
+        }
+
+        .author img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+        }
+
+        .signup {
+            text-align: center;
+        }
+
+        .signup form {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-top: 2rem;
+        }
+
+        .signup input {
+            padding: 1rem;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            font-size: 1rem;
+            width: 300px;
+        }
+
+        .signup button {
+            background: var(--primary-color);
+            color: #fff;
+            padding: 1rem 2rem;
+            border: none;
+            border-radius: 5px;
+            font-size: 1rem;
+            cursor: pointer;
+        }
+
+        footer {
+            background: var(--dark-color);
+            color: var(--text-color-light);
+            text-align: center;
+            padding: 4rem 0;
+        }
+
+        .social-links {
+            margin-bottom: 1.5rem;
+        }
+
+        .social-links a {
+            color: var(--text-color-light);
+            text-decoration: none;
+            margin: 0 1rem;
+            font-size: 1.1rem;
+        }
+
+        @media (max-width: 768px) {
+            nav ul {
+                display: none; /* Simplification for single file */
+            }
+            .hero {
+                padding: 10rem 0 6rem;
+            }
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+            .author .author-bio {
+                flex-direction: column;
+                text-align: center;
+            }
+            .signup form {
+                flex-direction: column;
+                align-items: center;
+            }
+            .hamburger {
+                display: block;
+            }
+            nav ul.show {
+                display: flex;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">Physical-AI</div>
+            <ul>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#author">Author</a></li>
+                <li><a href="#signup">Signup</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>Physical-AI</h1>
+            <p>Where Intelligence Meets the Real World</p>
+            <a href="#" class="cta-button">Get Your Copy</a>
+        </section>
+
+        <section id="blurb" class="blurb">
+            <h2>The Intersection of AI and the Physical World</h2>
+            <p>This book is a comprehensive exploration of Physical AI, a field that merges artificial intelligence with the physical world. From smart materials to brain-computer interfaces, we delve into the technologies that are shaping our future.</p>
+        </section>
+
+        <section id="features" class="features">
+            <h2>Key Features</h2>
+            <div class="feature-cards">
+                <div class="card feature-1">
+                    <h3>Part 1: The Foundations</h3>
+                    <p>Explore the fundamental principles that underpin Physical AI, from control systems to embodied cognition.</p>
+                </div>
+                <div class="card feature-2">
+                    <h3>Part 2: Applications</h3>
+                    <p>Discover the real-world applications of Physical AI, including robotics, smart materials, and responsive architectures.</p>
+                </div>
+                <div class="card feature-3">
+                    <h3>Part 3: The Future</h3>
+                    <p>Delve into the future of human-AI interaction, ethical considerations, and the potential societal impact.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="author" class="author">
+            <h2>About the Author</h2>
+            <div class="author-bio">
+                <img src="https://via.placeholder.com/150" alt="Author Photo">
+                <p>Authored by a collective of AI researchers and futurists dedicated to exploring the profound implications of Physical AI on society, technology, and the future of human existence.</p>
+            </div>
+        </section>
+
+        <section id="signup" class="signup">
+            <h2>Stay Updated</h2>
+            <p>Subscribe to our newsletter for the latest insights on Physical AI.</p>
+            <form>
+                <input type="email" placeholder="Your email address">
+                <button type="submit">Subscribe</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <div class="social-links">
+            <a href="#">GitHub</a>
+            <a href="#">Twitter</a>
+            <a href="#">LinkedIn</a>
+        </div>
+        <p>&copy; 2025 Physical-AI Book. All rights reserved.</p>
+    </footer>
+
+    <script>
+        const hamburger = document.querySelector('.hamburger');
+        const navUl = document.querySelector('nav ul');
+
+        hamburger.addEventListener('click', () => {
+            navUl.classList.toggle('show');
+        });
+
+        document.querySelectorAll('nav a').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>

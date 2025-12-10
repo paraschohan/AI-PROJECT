@@ -17,3 +17,14 @@ The development of new and improved wearables is an active area of research. Res
 1.  What defines wearable technology, and what are its key characteristics in terms of functionality and interaction?
 2.  List and describe three different types of wearables and their primary applications.
 3.  How is the ongoing research in wearable technology contributing to the evolution of Physical AI systems?
+
+## Solutions
+
+1.  **Definition and Characteristics:** Wearable technology refers to electronic devices worn as accessories, embedded in clothing, implanted, or tattooed. Key characteristics include being hands-free, microprocessor-powered, and capable of sending/receiving data via the Internet.
+2.  **Types and Applications:**
+    *   **Smartwatches:** Worn on the wrist, used for fitness tracking, notifications, and payments.
+    *   **Fitness trackers:** Worn on the body, track activity levels, sleep patterns, and health metrics.
+    *   **Smart clothing:** Embedded with sensors, monitors health, tracks movements, and provides feedback.
+    *   **Implantable devices:** Implanted in the body, monitor health, deliver drugs, or provide therapy.
+    *   **Smart tattoos:** Electronic ink tattoos, monitor health and track movements.
+3.  **Contribution to Physical AI:** Research focuses on developing smaller, more comfortable, and powerful wearables with broader capabilities. These advancements will enable more sophisticated Physical AI systems that can seamlessly integrate with humans, gather rich physiological data, and offer new interaction paradigms.

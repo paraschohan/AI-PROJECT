@@ -11,3 +11,9 @@ More recently, advances in machine learning, particularly deep learning and rein
 1.  How did early cybernetics and robotics contribute to the foundation of Physical AI?
 2.  What was Rodney Brooks' main argument against the traditional view of AI, and what concept did he introduce?
 3.  How have recent advancements in machine learning impacted the progress of Physical AI?
+
+## Solutions
+
+1.  **Early Contributions:** Pioneers like Norbert Wiener and W. Grey Walter explored the connections between control systems, feedback loops, and intelligent behavior, laying the foundation that intelligence involves dynamic interplay between an agent and its environment.
+2.  **Rodney Brooks' Argument:** Brooks challenged the view of AI as a disembodied symbol manipulator, arguing that intelligence emerges from the interactions of an agent with its environment. He introduced the concept of "intelligence without representation."
+3.  **Impact of Machine Learning:** Recent advances in machine learning (deep learning and reinforcement learning) have significantly progressed Physical AI by enabling the development of more sophisticated robots that can learn from experiences and adapt to new situations.

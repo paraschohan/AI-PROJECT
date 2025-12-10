@@ -15,3 +15,12 @@ The development of new and improved BCIs is an active area of research. Research
 1.  What is the fundamental principle behind Brain-Computer Interfaces (BCIs), and how do they enable control via thought?
 2.  Compare and contrast two types of BCIs (e.g., EEG, ECoG, fMRI) in terms of their invasiveness and method of brain activity measurement.
 3.  What are the primary goals of current BCI research, and what potential does improved BCI technology hold for human-computer interaction?
+
+## Solutions
+
+1.  **Fundamental Principle:** BCIs work by detecting and interpreting brain signals. These interpreted signals are then used to control a computer or other electronic device, thereby enabling control directly through a user's thoughts.
+2.  **Comparison of BCI Types:**
+    *   **Electroencephalography (EEG):** A non-invasive technique that measures brain activity through electrodes placed on the scalp.
+    *   **Electrocorticography (ECoG):** An invasive technique that measures brain activity via electrodes placed directly on the brain's surface.
+    *   **Functional Magnetic Resonance Imaging (fMRI):** A non-invasive technique that measures brain activity by detecting changes in blood flow.
+3.  **Goals and Potential of BCI Research:** Current research aims to develop BCIs that are more accurate, reliable, and user-friendly. Improved BCI technology holds immense potential for human-computer interaction, enabling new forms of communication, control of prosthetics, and assistance for individuals with severe disabilities.

@@ -16,3 +16,9 @@ The development of new and improved control systems is an active area of researc
 1.  Define a control system and explain its role within a Physical AI context.
 2.  Compare and contrast open-loop and closed-loop control systems, highlighting their respective advantages and disadvantages for Physical AI.
 3.  What makes "learning control systems" essential for truly intelligent Physical AI, and what challenges do they address?
+
+## Solutions
+
+1.  **Definition and Role:** A control system manages, commands, or regulates the behavior of devices using control loops. In Physical AI, it controls the AI's body movements and actions based on sensor information.
+2.  **Open-loop vs. Closed-loop:** Open-loop systems are simple but inaccurate as they lack feedback. Closed-loop systems are more accurate due to feedback but are more complex to implement. For Physical AI, closed-loop is generally preferred for adaptive behavior.
+3.  **Learning Control Systems:** These are essential because they can learn from experience and improve performance over time. They address challenges of adaptability and intelligence in dynamic environments, enabling more sophisticated Physical AI.

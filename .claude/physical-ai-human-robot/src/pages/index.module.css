@@ -4,20 +4,277 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
-  text-align: center;
+  padding: 8rem 0;
   position: relative;
   overflow: hidden;
+  background: linear-gradient(135deg, #263238, #37474F); /* Dark Blue Grey Gradient */
+  color: #ffffff; /* White text for contrast */
+}
+
+.heroContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.heroText {
+    text-align: left;
+    max-width: 50%;
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 6rem 0;
   }
+  .heroContainer {
+    flex-direction: column;
+    text-align: center;
+  }
+  .heroText {
+    max-width: 100%;
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+}
+
+.heroTitle {
+  font-size: 3.5rem;
+  font-weight: 800;
+  line-height: 1.1;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 1rem;
+}
+
+.heroSubtitle {
+  font-size: 1.75rem;
+  font-weight: 400;
+  margin-bottom: 2.5rem;
 }
 
 .buttons {
   display: flex;
   align-items: center;
+  justify-content: flex-start;
+  gap: 1rem;
+}
+
+@media screen and (max-width: 996px) {
+    .buttons {
+        justify-content: center;
+    }
+}
+
+/* Book Mockup Styles */
+.heroImage {
+    perspective: 1000px;
+}
+
+.bookMockup {
+    transform: rotateY(-30deg) rotateX(15deg);
+    transform-style: preserve-3d;
+    transition: transform 0.5s ease;
+}
+
+.bookMockup:hover {
+    transform: rotateY(-20deg) rotateX(5deg);
+}
+
+.bookCover {
+    width: 300px;
+    height: 450px;
+    background: linear-gradient(45deg, #2a2d3d, #3c4053);
+    border-radius: 2px 8px 8px 2px;
+    box-shadow: 10px 10px 30px rgba(0,0,0,0.5), inset 0 0 10px rgba(0,0,0,0.2);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+}
+
+.bookSpine {
+    position: absolute;
+    left: -20px;
+    top: 0;
+    width: 20px;
+    height: 100%;
+    background: #1e202b;
+    transform: rotateY(-90deg) translateX(-10px) translateY(-10px) scaleY(1);
+    transform-origin: center left;
+    border-radius: 2px 0 0 2px;
+}
+
+.bookTitle {
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    padding: 0 1rem;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 5px rgba(0,0,0,0.3);
+}
+
+.bookAuthor {
+    margin-top: 1rem;
+    font-size: 1rem;
+    font-style: italic;
+}
+
+
+/* --- Other Sections --- */
+
+.features {
+  padding: 6rem 0;
+  background-color: #f5f5f7;
+}
+
+.featureTitle {
+  margin-bottom: 1.5rem;
+  font-size: 1.75rem;
+  color: #2a2d3d; /* Dark text for clarity */
+}
+
+.quoteSection {
+  padding: 8rem 0;
+  text-align: center;
+  background-color: #ffffff;
+}
+
+.quote {
+  font-size: 1.75rem;
+  font-style: italic;
+  font-weight: 400;
+  color: #2a2d3d; /* Dark text for contrast */
+  border-left: 4px solid var(--ifm-color-primary);
+  padding-left: 2rem;
+  text-align: left;
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.blurbSection {
+  padding: 6rem 0;
+  background-color: #e0f2f1; /* Light teal-ish grey */
+  text-align: center;
+}
+
+.blurbText {
+  font-size: 1.5rem;
+  line-height: 1.8;
+  color: #333;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.authorBioSection {
+  padding: 8rem 0;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.authorBioContent {
+  display: flex;
+  align-items: center;
   justify-content: center;
+  gap: 4rem;
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.authorPhoto {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid var(--ifm-color-primary);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.authorName {
+  font-size: 2.25rem;
+  margin-bottom: 0.5rem;
+  color: #2a2d3d; /* Dark text for clarity */
+}
+
+.authorDescription {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: #555;
+}
+
+@media screen and (max-width: 768px) {
+  .authorBioContent {
+    flex-direction: column;
+    text-align: center;
+    gap: 1.5rem;
+  }
+}
+
+.emailSignupSection {
+  padding: 8rem 0;
+  background-color: #e0f2f1; /* Light teal-ish grey */
+}
+
+.emailSignupTitle {
+  font-size: 2.75rem;
+  margin-bottom: 1rem;
+  color: #2a2d3d; /* Dark text for clarity */
+}
+
+.emailSignupSubtitle {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+  color: #555;
+}
+
+.emailSignupForm {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.emailInput {
+  flex-grow: 1;
+  padding: 0.8rem 1rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.emailInput:focus {
+  outline: none;
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5); /* Tailwind's blue-400 with opacity */
+}
+
+.feature-card-1 {
+  background: linear-gradient(135deg, #4DD0E1, #26C6DA); /* Light Cyan to Cyan */
+  color: #000000; /* Black text for contrast */
+}
+
+.feature-card-1 p {
+  color: #000000; /* Ensure description text is black */
+}
+
+.feature-card-2 {
+  background: linear-gradient(135deg, #81C784, #4CAF50); /* Light Green to Green */
+  color: #000000; /* Black text for contrast */
+}
+
+.feature-card-2 p {
+  color: #000000; /* Ensure description text is black */
+}
+
+.feature-card-3 {
+  background: linear-gradient(135deg, #FFB74D, #FF9800); /* Light Orange to Orange */
+  color: #000000; /* Black text for contrast */
+}
+
+.feature-card-3 p {
+  color: #000000; /* Ensure description text is black */
 }
