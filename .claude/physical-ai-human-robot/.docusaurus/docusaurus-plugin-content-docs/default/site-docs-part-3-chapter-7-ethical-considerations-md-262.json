@@ -1,0 +1,24 @@
+{
+  "id": "part3/chapter7/ethical-considerations",
+  "title": "Ethical Considerations",
+  "description": "The development of Physical AI raises a number of ethical considerations that need to be addressed. Some of the key ethical considerations include:",
+  "source": "@site/docs/part3/chapter7/ethical-considerations.md",
+  "sourceDirName": "part3/chapter7",
+  "slug": "/part3/chapter7/ethical-considerations",
+  "permalink": "/docs/part3/chapter7/ethical-considerations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part3/chapter7/ethical-considerations.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Exoskeletons and Prosthetics",
+    "permalink": "/docs/part2/chapter6/exoskeletons-and-prosthetics"
+  },
+  "next": {
+    "title": "Privacy and Surveillance",
+    "permalink": "/docs/part3/chapter7/privacy-and-surveillance"
+  }
+}

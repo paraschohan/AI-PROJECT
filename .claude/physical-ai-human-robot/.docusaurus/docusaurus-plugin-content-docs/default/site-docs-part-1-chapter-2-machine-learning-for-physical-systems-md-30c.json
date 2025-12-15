@@ -1,0 +1,24 @@
+{
+  "id": "part1/chapter2/machine-learning-for-physical-systems",
+  "title": "Machine Learning for Physical Systems",
+  "description": "Machine learning is a subfield of artificial intelligence that focuses on the development of algorithms that can learn from data. In the context of Physical AI, machine learning is used to develop algorithms that can control the movement and actions of the AI's body based on the information it receives from its sensors.",
+  "source": "@site/docs/part1/chapter2/machine-learning-for-physical-systems.md",
+  "sourceDirName": "part1/chapter2",
+  "slug": "/part1/chapter2/machine-learning-for-physical-systems",
+  "permalink": "/docs/part1/chapter2/machine-learning-for-physical-systems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part1/chapter2/machine-learning-for-physical-systems.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Control Systems",
+    "permalink": "/docs/part1/chapter2/control-systems"
+  },
+  "next": {
+    "title": "Embodied Cognition",
+    "permalink": "/docs/part1/chapter3/embodied-cognition"
+  }
+}

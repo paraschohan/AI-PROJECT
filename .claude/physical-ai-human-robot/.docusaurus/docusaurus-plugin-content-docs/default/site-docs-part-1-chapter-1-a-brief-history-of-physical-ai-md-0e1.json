@@ -1,0 +1,24 @@
+{
+  "id": "part1/chapter1/a-brief-history-of-physical-ai",
+  "title": "A Brief History of Physical AI",
+  "description": "The roots of Physical AI can be traced back to the early days of cybernetics and robotics. In the 1940s and 1950s, pioneers like Norbert Wiener and W. Grey Walter explored the connections between control systems, feedback loops, and intelligent behavior. Their work laid the foundation for the idea that intelligence is not just about abstract computation, but also about the dynamic interplay between an agent and its environment.",
+  "source": "@site/docs/part1/chapter1/a-brief-history-of-physical-ai.md",
+  "sourceDirName": "part1/chapter1",
+  "slug": "/part1/chapter1/a-brief-history-of-physical-ai",
+  "permalink": "/docs/part1/chapter1/a-brief-history-of-physical-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part1/chapter1/a-brief-history-of-physical-ai.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is Physical AI?",
+    "permalink": "/docs/part1/chapter1/what-is-physical-ai"
+  },
+  "next": {
+    "title": "Why is Physical AI Important?",
+    "permalink": "/docs/part1/chapter1/why-is-physical-ai-important"
+  }
+}

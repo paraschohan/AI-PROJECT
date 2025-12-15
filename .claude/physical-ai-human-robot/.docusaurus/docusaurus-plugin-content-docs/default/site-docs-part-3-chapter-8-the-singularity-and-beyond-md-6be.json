@@ -1,0 +1,24 @@
+{
+  "id": "part3/chapter8/the-singularity-and-beyond",
+  "title": "The Singularity and Beyond",
+  "description": "The Singularity is a hypothetical point in time when artificial intelligence will become so advanced that it will be able to surpass human intelligence. This could have a profound impact on humanity, and it is important to consider the potential risks and benefits of such a development.",
+  "source": "@site/docs/part3/chapter8/the-singularity-and-beyond.md",
+  "sourceDirName": "part3/chapter8",
+  "slug": "/part3/chapter8/the-singularity-and-beyond",
+  "permalink": "/docs/part3/chapter8/the-singularity-and-beyond",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part3/chapter8/the-singularity-and-beyond.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Future of Human-AI Collaboration",
+    "permalink": "/docs/part3/chapter8/the-future-of-human-ai-collaboration"
+  },
+  "next": {
+    "title": "The End of Humanity?",
+    "permalink": "/docs/part3/chapter8/the-end-of-humanity"
+  }
+}

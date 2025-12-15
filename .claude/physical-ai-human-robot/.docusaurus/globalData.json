@@ -1,0 +1,207 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "conclusion",
+              "path": "/docs/conclusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/chapter1/a-brief-history-of-physical-ai",
+              "path": "/docs/part1/chapter1/a-brief-history-of-physical-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/chapter1/what-is-physical-ai",
+              "path": "/docs/part1/chapter1/what-is-physical-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/chapter1/why-is-physical-ai-important",
+              "path": "/docs/part1/chapter1/why-is-physical-ai-important",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/chapter2/control-systems",
+              "path": "/docs/part1/chapter2/control-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/chapter2/machine-learning-for-physical-systems",
+              "path": "/docs/part1/chapter2/machine-learning-for-physical-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/chapter2/sensors-and-actuators",
+              "path": "/docs/part1/chapter2/sensors-and-actuators",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/chapter3/embodied-cognition",
+              "path": "/docs/part1/chapter3/embodied-cognition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/chapter3/morphological-computation",
+              "path": "/docs/part1/chapter3/morphological-computation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/chapter4/robotics",
+              "path": "/docs/part2/chapter4/robotics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/chapter4/smart-materials",
+              "path": "/docs/part2/chapter4/smart-materials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/chapter4/wearable-technology",
+              "path": "/docs/part2/chapter4/wearable-technology",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/chapter5/programmable-matter",
+              "path": "/docs/part2/chapter5/programmable-matter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/chapter5/responsive-architectures",
+              "path": "/docs/part2/chapter5/responsive-architectures",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/chapter5/self-healing-materials",
+              "path": "/docs/part2/chapter5/self-healing-materials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/chapter6/brain-computer-interfaces",
+              "path": "/docs/part2/chapter6/brain-computer-interfaces",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/chapter6/exoskeletons-and-prosthetics",
+              "path": "/docs/part2/chapter6/exoskeletons-and-prosthetics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/chapter6/haptic-interfaces",
+              "path": "/docs/part2/chapter6/haptic-interfaces",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part3/chapter7/chapter7-solutions",
+              "path": "/docs/part3/chapter7/chapter7-solutions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part3/chapter7/ethical-considerations",
+              "path": "/docs/part3/chapter7/ethical-considerations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part3/chapter7/job-displacement",
+              "path": "/docs/part3/chapter7/job-displacement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part3/chapter7/privacy-and-surveillance",
+              "path": "/docs/part3/chapter7/privacy-and-surveillance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part3/chapter8/chapter8-solutions",
+              "path": "/docs/part3/chapter8/chapter8-solutions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part3/chapter8/the-end-of-humanity",
+              "path": "/docs/part3/chapter8/the-end-of-humanity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part3/chapter8/the-future-of-human-ai-collaboration",
+              "path": "/docs/part3/chapter8/the-future-of-human-ai-collaboration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part3/chapter8/the-singularity-and-beyond",
+              "path": "/docs/part3/chapter8/the-singularity-and-beyond",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai/ai-safety",
+              "path": "/docs/physical-ai/ai-safety"
+            },
+            {
+              "id": "physical-ai/conclusion",
+              "path": "/docs/physical-ai/conclusion"
+            },
+            {
+              "id": "physical-ai/intro",
+              "path": "/docs/physical-ai/intro"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/docs/tutorial-basics/congratulations"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/docs/tutorial-basics/create-a-blog-post"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/docs/tutorial-basics/create-a-document"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/docs/tutorial-basics/create-a-page"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/docs/tutorial-basics/deploy-your-site"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/docs/tutorial-basics/markdown-features"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

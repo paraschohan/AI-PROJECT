@@ -1,0 +1,24 @@
+{
+  "id": "part3/chapter8/the-end-of-humanity",
+  "title": "The End of Humanity?",
+  "description": "The development of artificial intelligence has raised a number of concerns about the future of humanity. Some people believe that AI could eventually surpass human intelligence, leading to a \"Singularity\" in which humans are no longer the dominant species on Earth. This could have a number of negative consequences, including the extinction of humanity.",
+  "source": "@site/docs/part3/chapter8/the-end-of-humanity.md",
+  "sourceDirName": "part3/chapter8",
+  "slug": "/part3/chapter8/the-end-of-humanity",
+  "permalink": "/docs/part3/chapter8/the-end-of-humanity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part3/chapter8/the-end-of-humanity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Singularity and Beyond",
+    "permalink": "/docs/part3/chapter8/the-singularity-and-beyond"
+  },
+  "next": {
+    "title": "Chapter 8 Solutions",
+    "permalink": "/docs/part3/chapter8/chapter8-solutions"
+  }
+}

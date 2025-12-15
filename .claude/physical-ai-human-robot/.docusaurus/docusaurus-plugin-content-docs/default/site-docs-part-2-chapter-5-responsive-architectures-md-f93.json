@@ -1,0 +1,24 @@
+{
+  "id": "part2/chapter5/responsive-architectures",
+  "title": "Responsive Architectures",
+  "description": "Responsive architectures are buildings and other structures that can change their form and function in response to their environment. This is a valuable property for a variety of applications, as it can allow for the creation of more sustainable and comfortable buildings.",
+  "source": "@site/docs/part2/chapter5/responsive-architectures.md",
+  "sourceDirName": "part2/chapter5",
+  "slug": "/part2/chapter5/responsive-architectures",
+  "permalink": "/docs/part2/chapter5/responsive-architectures",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part2/chapter5/responsive-architectures.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wearable Technology",
+    "permalink": "/docs/part2/chapter4/wearable-technology"
+  },
+  "next": {
+    "title": "Programmable Matter",
+    "permalink": "/docs/part2/chapter5/programmable-matter"
+  }
+}

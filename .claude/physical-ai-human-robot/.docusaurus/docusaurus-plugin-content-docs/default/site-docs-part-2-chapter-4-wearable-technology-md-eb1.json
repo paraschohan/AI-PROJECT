@@ -1,0 +1,24 @@
+{
+  "id": "part2/chapter4/wearable-technology",
+  "title": "Wearable Technology",
+  "description": "Wearable technology, also known as wearables, is a category of electronic devices that can be worn as accessories, embedded in clothing, implanted in the user's body, or even tattooed on the skin. The devices are hands-free gadgets with practical uses, powered by microprocessors and enhanced with the ability to send and receive data via the Internet.",
+  "source": "@site/docs/part2/chapter4/wearable-technology.md",
+  "sourceDirName": "part2/chapter4",
+  "slug": "/part2/chapter4/wearable-technology",
+  "permalink": "/docs/part2/chapter4/wearable-technology",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part2/chapter4/wearable-technology.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Smart Materials",
+    "permalink": "/docs/part2/chapter4/smart-materials"
+  },
+  "next": {
+    "title": "Responsive Architectures",
+    "permalink": "/docs/part2/chapter5/responsive-architectures"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "conclusion",
+  "title": "Conclusion",
+  "description": "Physical AI is a rapidly developing field with the potential to revolutionize the way we live and work. In this book, we have explored the foundations of Physical AI, its applications, and its ethical implications. We have also discussed the future of Physical AI and the potential for a Singularity in which artificial intelligence surpasses human intelligence.",
+  "source": "@site/docs/conclusion.md",
+  "sourceDirName": ".",
+  "slug": "/conclusion",
+  "permalink": "/docs/conclusion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/conclusion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 8 Solutions",
+    "permalink": "/docs/part3/chapter8/chapter8-solutions"
+  }
+}

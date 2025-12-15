@@ -1,0 +1,24 @@
+{
+  "id": "part3/chapter8/chapter8-solutions",
+  "title": "Chapter 8 Solutions",
+  "description": "From the-end-of-humanity.md",
+  "source": "@site/docs/part3/chapter8/chapter8-solutions.md",
+  "sourceDirName": "part3/chapter8",
+  "slug": "/part3/chapter8/chapter8-solutions",
+  "permalink": "/docs/part3/chapter8/chapter8-solutions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part3/chapter8/chapter8-solutions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The End of Humanity?",
+    "permalink": "/docs/part3/chapter8/the-end-of-humanity"
+  },
+  "next": {
+    "title": "Conclusion",
+    "permalink": "/docs/conclusion"
+  }
+}

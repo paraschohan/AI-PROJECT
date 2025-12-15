@@ -1,0 +1,18 @@
+{
+  "id": "physical-ai/conclusion",
+  "title": "Conclusion",
+  "description": "AI safety is a critical field that requires ongoing research, collaboration, and public discourse. By addressing the challenges of AI safety, we can work towards a future where AI is a powerful tool for human progress and well-being.",
+  "source": "@site/docs/physical-ai/conclusion.md",
+  "sourceDirName": "physical-ai",
+  "slug": "/physical-ai/conclusion",
+  "permalink": "/docs/physical-ai/conclusion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai/conclusion.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  }
+}

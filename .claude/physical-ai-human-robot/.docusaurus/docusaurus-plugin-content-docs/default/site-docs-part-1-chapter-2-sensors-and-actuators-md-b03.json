@@ -1,0 +1,24 @@
+{
+  "id": "part1/chapter2/sensors-and-actuators",
+  "title": "Sensors and Actuators",
+  "description": "Sensors and actuators are the two main components that allow a Physical AI to interact with the physical world. Sensors are devices that detect and measure physical properties of the environment, such as light, sound, temperature, and pressure. This information is then used by the AI to make decisions and take actions. Actuators are devices that convert electrical signals into physical motion. They are used to control the movement of the AI's body, such as its limbs, wheels, or wings.",
+  "source": "@site/docs/part1/chapter2/sensors-and-actuators.md",
+  "sourceDirName": "part1/chapter2",
+  "slug": "/part1/chapter2/sensors-and-actuators",
+  "permalink": "/docs/part1/chapter2/sensors-and-actuators",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part1/chapter2/sensors-and-actuators.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Why is Physical AI Important?",
+    "permalink": "/docs/part1/chapter1/why-is-physical-ai-important"
+  },
+  "next": {
+    "title": "Control Systems",
+    "permalink": "/docs/part1/chapter2/control-systems"
+  }
+}

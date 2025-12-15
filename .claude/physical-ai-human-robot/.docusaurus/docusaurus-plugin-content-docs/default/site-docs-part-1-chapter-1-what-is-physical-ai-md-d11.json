@@ -1,0 +1,24 @@
+{
+  "id": "part1/chapter1/what-is-physical-ai",
+  "title": "What is Physical AI?",
+  "description": "Physical AI, also known as Embodied AI, is a subfield of artificial intelligence that focuses on creating intelligent agents that can interact with the physical world through a body. Unlike traditional AI, which often exists purely in the digital realm, Physical AI systems have a physical presence that allows them to perceive their environment through sensors and act upon it using actuators.",
+  "source": "@site/docs/part1/chapter1/what-is-physical-ai.md",
+  "sourceDirName": "part1/chapter1",
+  "slug": "/part1/chapter1/what-is-physical-ai",
+  "permalink": "/docs/part1/chapter1/what-is-physical-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part1/chapter1/what-is-physical-ai.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "A Brief History of Physical AI",
+    "permalink": "/docs/part1/chapter1/a-brief-history-of-physical-ai"
+  }
+}

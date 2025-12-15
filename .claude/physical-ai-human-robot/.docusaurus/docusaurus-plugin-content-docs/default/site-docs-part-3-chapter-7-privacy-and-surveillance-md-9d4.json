@@ -1,0 +1,24 @@
+{
+  "id": "part3/chapter7/privacy-and-surveillance",
+  "title": "Privacy and Surveillance",
+  "description": "Another significant ethical consideration associated with the development of Physical AI is the potential for privacy and surveillance. As Physical AI systems become more ubiquitous, they will be able to collect a large amount of data about people's lives. This data could be used to track people's movements, monitor their activities, and even control their behavior.",
+  "source": "@site/docs/part3/chapter7/privacy-and-surveillance.md",
+  "sourceDirName": "part3/chapter7",
+  "slug": "/part3/chapter7/privacy-and-surveillance",
+  "permalink": "/docs/part3/chapter7/privacy-and-surveillance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part3/chapter7/privacy-and-surveillance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ethical Considerations",
+    "permalink": "/docs/part3/chapter7/ethical-considerations"
+  },
+  "next": {
+    "title": "Job Displacement",
+    "permalink": "/docs/part3/chapter7/job-displacement"
+  }
+}

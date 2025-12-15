@@ -1,0 +1,24 @@
+{
+  "id": "part1/chapter3/morphological-computation",
+  "title": "Morphological Computation",
+  "description": "Morphological computation is the idea that the physical form of a robot can be used to perform computation. This is in contrast to the traditional view of computation, which is typically seen as a process that happens in a central processing unit (CPU).",
+  "source": "@site/docs/part1/chapter3/morphological-computation.md",
+  "sourceDirName": "part1/chapter3",
+  "slug": "/part1/chapter3/morphological-computation",
+  "permalink": "/docs/part1/chapter3/morphological-computation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part1/chapter3/morphological-computation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Embodied Cognition",
+    "permalink": "/docs/part1/chapter3/embodied-cognition"
+  },
+  "next": {
+    "title": "Robotics",
+    "permalink": "/docs/part2/chapter4/robotics"
+  }
+}

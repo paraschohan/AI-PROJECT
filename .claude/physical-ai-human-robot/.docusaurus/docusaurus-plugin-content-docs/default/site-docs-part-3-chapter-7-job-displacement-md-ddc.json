@@ -1,0 +1,24 @@
+{
+  "id": "part3/chapter7/job-displacement",
+  "title": "Job Displacement",
+  "description": "One of the most significant ethical considerations associated with the development of Physical AI is the potential for job displacement. As Physical AI systems become more capable, they may be able to perform tasks that are currently performed by humans. This could lead to widespread unemployment and economic inequality.",
+  "source": "@site/docs/part3/chapter7/job-displacement.md",
+  "sourceDirName": "part3/chapter7",
+  "slug": "/part3/chapter7/job-displacement",
+  "permalink": "/docs/part3/chapter7/job-displacement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part3/chapter7/job-displacement.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Privacy and Surveillance",
+    "permalink": "/docs/part3/chapter7/privacy-and-surveillance"
+  },
+  "next": {
+    "title": "Chapter 7 Solutions",
+    "permalink": "/docs/part3/chapter7/chapter7-solutions"
+  }
+}
