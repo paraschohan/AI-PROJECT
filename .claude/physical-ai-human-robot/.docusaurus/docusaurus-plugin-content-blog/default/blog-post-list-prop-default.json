@@ -2,28 +2,34 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "Welcome",
-      "permalink": "/blog/welcome",
+      "title": "Haptic Interfaces: The Sense of Touch in AI Systems",
+      "permalink": "/blog/2025/03/05/haptic-interfaces",
       "unlisted": false,
-      "date": "2021-08-26T00:00:00.000Z"
+      "date": "2025-03-05T00:00:00.000Z"
     },
     {
-      "title": "MDX Blog Post",
-      "permalink": "/blog/mdx-blog-post",
+      "title": "Brain-Computer Interfaces: Direct Neural Control of Physical Systems",
+      "permalink": "/blog/2025/03/01/brain-computer-interfaces",
       "unlisted": false,
-      "date": "2021-08-01T00:00:00.000Z"
+      "date": "2025-03-01T00:00:00.000Z"
     },
     {
-      "title": "Long Blog Post",
-      "permalink": "/blog/long-blog-post",
+      "title": "Smart Materials and Programmable Matter: Engineering Physical Intelligence",
+      "permalink": "/blog/2025/02/25/smart-materials-programmable-matter",
       "unlisted": false,
-      "date": "2019-05-29T00:00:00.000Z"
+      "date": "2025-02-25T00:00:00.000Z"
     },
     {
-      "title": "First Blog Post",
-      "permalink": "/blog/first-blog-post",
+      "title": "Robotics: The Physical Foundation of Artificial Intelligence",
+      "permalink": "/blog/2025/02/20/robotics-physical-foundation",
       "unlisted": false,
-      "date": "2019-05-28T00:00:00.000Z"
+      "date": "2025-02-20T00:00:00.000Z"
+    },
+    {
+      "title": "Human-Robot Interaction: Designing for Natural Collaboration",
+      "permalink": "/blog/2025/02/15/human-robot-interaction",
+      "unlisted": false,
+      "date": "2025-02-15T00:00:00.000Z"
     }
   ]
 }

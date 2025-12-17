@@ -42,7 +42,7 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-b2f": {
+  "/blog-4d1": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -50,19 +50,158 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---blog-65-a-57a"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---blogfee-bae"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---blog-312-c8e"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---bloga-8-d-75d"
+      },
+      {
+        "content": "content---blog-23-c-ee9"
+      },
+      {
+        "content": "content---blog-2-be-cfe"
+      },
+      {
+        "content": "content---blog-4-be-a29"
+      },
+      {
+        "content": "content---blog-350-e41"
+      },
+      {
+        "content": "content---blog-71-d-c5e"
+      },
+      {
+        "content": "content---blog-7-ab-76c"
       }
     ],
     "__props": "__props---blogc-15-573"
+  },
+  "/blog/2025/01/15/introduction-to-physical-ai-0f2": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2025-01-15-introduction-to-physical-aiace-de6"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-01-15-introduction-to-physical-ai-339-ec9"
+  },
+  "/blog/2025/01/20/history-embodied-intelligence-31a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2025-01-15-introduction-to-physical-aiace-de6"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-01-20-history-embodied-intelligence-1-d-2-003"
+  },
+  "/blog/2025/01/25/why-physical-ai-matters-511": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2025-01-15-introduction-to-physical-aiace-de6"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-01-25-why-physical-ai-matters-251-4b3"
+  },
+  "/blog/2025/02/01/sensors-actuators-c31": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2025-01-15-introduction-to-physical-aiace-de6"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-02-01-sensors-actuatorsb-2-a-371"
+  },
+  "/blog/2025/02/05/control-systems-140": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2025-01-15-introduction-to-physical-aiace-de6"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-02-05-control-systemsbc-5-0de"
+  },
+  "/blog/2025/02/10/machine-learning-physical-systems-f0f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2025-01-15-introduction-to-physical-aiace-de6"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-02-10-machine-learning-physical-systems-5-ef-7bd"
+  },
+  "/blog/2025/02/15/human-robot-interaction-473": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2025-01-15-introduction-to-physical-aiace-de6"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-02-15-human-robot-interactionf-01-a3d"
+  },
+  "/blog/2025/02/20/robotics-physical-foundation-6ea": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2025-01-15-introduction-to-physical-aiace-de6"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-02-20-robotics-physical-foundation-7-e-0-9ed"
+  },
+  "/blog/2025/02/25/smart-materials-programmable-matter-b3f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2025-01-15-introduction-to-physical-aiace-de6"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-02-25-smart-materials-programmable-matter-73-e-199"
+  },
+  "/blog/2025/03/01/brain-computer-interfaces-6f3": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2025-01-15-introduction-to-physical-aiace-de6"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-03-01-brain-computer-interfacesf-53-fb5"
+  },
+  "/blog/2025/03/05/haptic-interfaces-8e0": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2025-01-15-introduction-to-physical-aiace-de6"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-03-05-haptic-interfaces-1-e-6-687"
   },
   "/blog/archive-182": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
@@ -75,62 +214,18 @@
     "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---blog-2025-01-15-introduction-to-physical-aiace-de6"
       },
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "__props": "__props---blog-authorsef-8-44f"
   },
-  "/blog/authors/all-sebastien-lorber-articles-4a1": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "items": [
-      {
-        "content": "content---blog-766-e3c"
-      },
-      {
-        "content": "content---blogf-4-f-cd7"
-      },
-      {
-        "content": "content---blog-925-e00"
-      }
-    ],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-all-sebastien-lorber-articlesc-9-c-639"
-  },
-  "/blog/authors/yangshun-a68": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "items": [
-      {
-        "content": "content---blog-766-e3c"
-      },
-      {
-        "content": "content---blog-871-381"
-      },
-      {
-        "content": "content---blog-925-e00"
-      }
-    ],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-yangshun-1-de-d0c"
-  },
   "/blog/first-blog-post-89a": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---blog-2025-01-15-introduction-to-physical-aiace-de6"
       },
       "plugin": "plugin---blog-369-22e"
     },
@@ -141,7 +236,7 @@
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---blog-2025-01-15-introduction-to-physical-aiace-de6"
       },
       "plugin": "plugin---blog-369-22e"
     },
@@ -152,12 +247,37 @@
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---blog-2025-01-15-introduction-to-physical-aiace-de6"
       },
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-mdx-blog-post-593-37b"
+  },
+  "/blog/page/2-9cb": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-2779-52e"
+      },
+      {
+        "content": "content---blog-page-2766-8ad"
+      },
+      {
+        "content": "content---blog-page-2-f-4-f-107"
+      },
+      {
+        "content": "content---blog-page-2871-fcb"
+      },
+      {
+        "content": "content---blog-page-2925-407"
+      }
+    ],
+    "__props": "__props---blog-page-28-ea-cf7"
   },
   "/blog/tags-287": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
@@ -167,6 +287,87 @@
     "sidebar": "sidebar---blog-814-8ac",
     "__props": "__props---blog-tags-3-a-2-fa2"
   },
+  "/blog/tags/actuators-298": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-350-e41"
+      }
+    ],
+    "__props": "__props---blog-tags-actuators-549-72b"
+  },
+  "/blog/tags/automation-9e7": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---bloga-8-d-75d"
+      },
+      {
+        "content": "content---blog-4-be-a29"
+      }
+    ],
+    "__props": "__props---blog-tags-automationab-6-de4"
+  },
+  "/blog/tags/brain-computer-interfaces-e92": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogfee-bae"
+      }
+    ],
+    "__props": "__props---blog-tags-brain-computer-interfacesa-5-f-66c"
+  },
+  "/blog/tags/collaboration-08b": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-23-c-ee9"
+      }
+    ],
+    "__props": "__props---blog-tags-collaborationbdf-662"
+  },
+  "/blog/tags/control-systems-83e": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-4-be-a29"
+      }
+    ],
+    "__props": "__props---blog-tags-control-systems-589-4db"
+  },
+  "/blog/tags/cybernetics-2cc": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-7-ab-76c"
+      }
+    ],
+    "__props": "__props---blog-tags-cybernetics-1-d-0-f99"
+  },
   "/blog/tags/docusaurus-704": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
@@ -175,19 +376,51 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---blog-page-2766-8ad"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---blog-page-2-f-4-f-107"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---blog-page-2871-fcb"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---blog-page-2925-407"
       }
     ],
     "__props": "__props---blog-tags-docusaurus-321-832"
+  },
+  "/blog/tags/embodied-intelligence-bad": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-71-d-c5e"
+      },
+      {
+        "content": "content---blog-7-ab-76c"
+      },
+      {
+        "content": "content---blog-page-2779-52e"
+      }
+    ],
+    "__props": "__props---blog-tags-embodied-intelligence-6-f-2-f05"
+  },
+  "/blog/tags/embodied-learning-338": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-2-be-cfe"
+      }
+    ],
+    "__props": "__props---blog-tags-embodied-learningd-97-0ea"
   },
   "/blog/tags/facebook-858": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
@@ -197,10 +430,49 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---blog-page-2766-8ad"
       }
     ],
     "__props": "__props---blog-tags-facebooke-5-a-514"
+  },
+  "/blog/tags/haptics-4ee": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-65-a-57a"
+      }
+    ],
+    "__props": "__props---blog-tags-hapticsf-4-b-953"
+  },
+  "/blog/tags/hardware-bf8": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-350-e41"
+      }
+    ],
+    "__props": "__props---blog-tags-hardware-294-f7c"
+  },
+  "/blog/tags/hci-417": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogfee-bae"
+      }
+    ],
+    "__props": "__props---blog-tags-hci-9-e-1-019"
   },
   "/blog/tags/hello-299": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
@@ -210,13 +482,26 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---blog-page-2766-8ad"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---blog-page-2871-fcb"
       }
     ],
     "__props": "__props---blog-tags-hellof-82-2fd"
+  },
+  "/blog/tags/history-1e5": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-7-ab-76c"
+      }
+    ],
+    "__props": "__props---blog-tags-history-92-f-48c"
   },
   "/blog/tags/hola-00d": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
@@ -226,16 +511,257 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blog-925-e00"
+        "content": "content---blog-page-2925-407"
       }
     ],
     "__props": "__props---blog-tags-hola-5-e-9-9a3"
+  },
+  "/blog/tags/hri-6fd": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-23-c-ee9"
+      }
+    ],
+    "__props": "__props---blog-tags-hrie-4-e-ba5"
+  },
+  "/blog/tags/human-computer-interaction-079": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-65-a-57a"
+      }
+    ],
+    "__props": "__props---blog-tags-human-computer-interaction-842-d65"
+  },
+  "/blog/tags/human-robot-interaction-2b6": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-23-c-ee9"
+      }
+    ],
+    "__props": "__props---blog-tags-human-robot-interaction-42-d-5df"
+  },
+  "/blog/tags/introduction-b22": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-71-d-c5e"
+      },
+      {
+        "content": "content---blog-page-2779-52e"
+      }
+    ],
+    "__props": "__props---blog-tags-introduction-65-e-a98"
+  },
+  "/blog/tags/machine-learning-67f": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-2-be-cfe"
+      }
+    ],
+    "__props": "__props---blog-tags-machine-learninge-3-d-342"
+  },
+  "/blog/tags/mechatronics-474": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---bloga-8-d-75d"
+      }
+    ],
+    "__props": "__props---blog-tags-mechatronics-619-ee1"
+  },
+  "/blog/tags/metamaterials-dd4": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-312-c8e"
+      }
+    ],
+    "__props": "__props---blog-tags-metamaterials-2-f-3-cbb"
+  },
+  "/blog/tags/neural-interfaces-46a": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogfee-bae"
+      }
+    ],
+    "__props": "__props---blog-tags-neural-interfaces-9-d-7-f56"
+  },
+  "/blog/tags/physical-ai-4fa": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-65-a-57a"
+      },
+      {
+        "content": "content---blogfee-bae"
+      },
+      {
+        "content": "content---blog-312-c8e"
+      },
+      {
+        "content": "content---bloga-8-d-75d"
+      },
+      {
+        "content": "content---blog-2-be-cfe"
+      },
+      {
+        "content": "content---blog-4-be-a29"
+      },
+      {
+        "content": "content---blog-71-d-c5e"
+      },
+      {
+        "content": "content---blog-page-2779-52e"
+      }
+    ],
+    "__props": "__props---blog-tags-physical-ai-60-d-e43"
+  },
+  "/blog/tags/programmable-matter-15c": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-312-c8e"
+      }
+    ],
+    "__props": "__props---blog-tags-programmable-matter-76-d-7dd"
+  },
+  "/blog/tags/reinforcement-learning-0aa": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-2-be-cfe"
+      }
+    ],
+    "__props": "__props---blog-tags-reinforcement-learningcf-5-4b2"
+  },
+  "/blog/tags/robotics-3f7": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---bloga-8-d-75d"
+      },
+      {
+        "content": "content---blog-4-be-a29"
+      },
+      {
+        "content": "content---blog-350-e41"
+      },
+      {
+        "content": "content---blog-7-ab-76c"
+      }
+    ],
+    "__props": "__props---blog-tags-robotics-753-22f"
+  },
+  "/blog/tags/sensors-b64": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-350-e41"
+      }
+    ],
+    "__props": "__props---blog-tags-sensorse-3-a-409"
+  },
+  "/blog/tags/smart-materials-3e4": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-312-c8e"
+      }
+    ],
+    "__props": "__props---blog-tags-smart-materials-3-a-9-fe3"
+  },
+  "/blog/tags/social-robotics-f22": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-23-c-ee9"
+      }
+    ],
+    "__props": "__props---blog-tags-social-roboticsf-4-b-47d"
+  },
+  "/blog/tags/tactile-feedback-2cb": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-65-a-57a"
+      }
+    ],
+    "__props": "__props---blog-tags-tactile-feedbackb-03-51f"
   },
   "/blog/welcome-d2b": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---blog-2025-01-15-introduction-to-physical-aiace-de6"
       },
       "plugin": "plugin---blog-369-22e"
     },

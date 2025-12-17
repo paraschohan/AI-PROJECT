@@ -1,0 +1,52 @@
+{
+  "permalink": "/blog/2025/02/15/human-robot-interaction",
+  "editUrl": "https://github.com/paraschohan/AI-PROJECT/edit/main/blog/blog/2025-02-15-human-robot-interaction.md",
+  "source": "@site/blog/2025-02-15-human-robot-interaction.md",
+  "title": "Human-Robot Interaction: Designing for Natural Collaboration",
+  "description": "Human-Robot Interaction (HRI) is a multidisciplinary field focused on understanding, designing, and evaluating robotic systems for human use. As Physical AI systems become more prevalent in human environments, the quality of human-robot interaction becomes critical for successful deployment and user acceptance. Effective HRI design creates systems that can work alongside humans naturally, safely, and productively.",
+  "date": "2025-02-15T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "human-robot-interaction",
+      "permalink": "/blog/tags/human-robot-interaction"
+    },
+    {
+      "inline": true,
+      "label": "hri",
+      "permalink": "/blog/tags/hri"
+    },
+    {
+      "inline": true,
+      "label": "collaboration",
+      "permalink": "/blog/tags/collaboration"
+    },
+    {
+      "inline": true,
+      "label": "social-robotics",
+      "permalink": "/blog/tags/social-robotics"
+    }
+  ],
+  "readingTime": 5.5,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Human-Robot Interaction: Designing for Natural Collaboration",
+    "date": "2025-02-15T00:00:00.000Z",
+    "tags": [
+      "human-robot-interaction",
+      "hri",
+      "collaboration",
+      "social-robotics"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Robotics: The Physical Foundation of Artificial Intelligence",
+    "permalink": "/blog/2025/02/20/robotics-physical-foundation"
+  },
+  "nextItem": {
+    "title": "Machine Learning for Physical Systems: Learning from Embodied Experience",
+    "permalink": "/blog/2025/02/10/machine-learning-physical-systems"
+  }
+}

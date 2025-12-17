@@ -1,0 +1,52 @@
+{
+  "permalink": "/blog/2025/03/01/brain-computer-interfaces",
+  "editUrl": "https://github.com/paraschohan/AI-PROJECT/edit/main/blog/blog/2025-03-01-brain-computer-interfaces.md",
+  "source": "@site/blog/2025-03-01-brain-computer-interfaces.md",
+  "title": "Brain-Computer Interfaces: Direct Neural Control of Physical Systems",
+  "description": "Brain-computer interfaces (BCIs) are devices that allow users to control a computer or other electronic device with their thoughts. In the context of Physical AI, BCIs create direct pathways for thoughts to control physical systems, transforming the relationship between human intention and physical action and creating unprecedented opportunities for human-machine collaboration.",
+  "date": "2025-03-01T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "brain-computer-interfaces",
+      "permalink": "/blog/tags/brain-computer-interfaces"
+    },
+    {
+      "inline": true,
+      "label": "neural-interfaces",
+      "permalink": "/blog/tags/neural-interfaces"
+    },
+    {
+      "inline": true,
+      "label": "physical-ai",
+      "permalink": "/blog/tags/physical-ai"
+    },
+    {
+      "inline": true,
+      "label": "hci",
+      "permalink": "/blog/tags/hci"
+    }
+  ],
+  "readingTime": 7.43,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Brain-Computer Interfaces: Direct Neural Control of Physical Systems",
+    "date": "2025-03-01T00:00:00.000Z",
+    "tags": [
+      "brain-computer-interfaces",
+      "neural-interfaces",
+      "physical-ai",
+      "hci"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Haptic Interfaces: The Sense of Touch in AI Systems",
+    "permalink": "/blog/2025/03/05/haptic-interfaces"
+  },
+  "nextItem": {
+    "title": "Smart Materials and Programmable Matter: Engineering Physical Intelligence",
+    "permalink": "/blog/2025/02/25/smart-materials-programmable-matter"
+  }
+}

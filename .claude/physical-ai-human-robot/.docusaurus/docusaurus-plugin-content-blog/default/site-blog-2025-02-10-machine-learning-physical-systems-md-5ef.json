@@ -1,0 +1,52 @@
+{
+  "permalink": "/blog/2025/02/10/machine-learning-physical-systems",
+  "editUrl": "https://github.com/paraschohan/AI-PROJECT/edit/main/blog/blog/2025-02-10-machine-learning-physical-systems.md",
+  "source": "@site/blog/2025-02-10-machine-learning-physical-systems.md",
+  "title": "Machine Learning for Physical Systems: Learning from Embodied Experience",
+  "description": "Machine learning is a subfield of artificial intelligence that focuses on the development of algorithms that can learn from data. In the context of Physical AI, machine learning is used to develop algorithms that can control the movement and actions of the AI's body based on the information it receives from its sensors. The integration of machine learning with Physical AI represents a fundamental shift from static, pre-programmed systems to adaptive, learning agents that can master the complexities of the physical world.",
+  "date": "2025-02-10T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "machine-learning",
+      "permalink": "/blog/tags/machine-learning"
+    },
+    {
+      "inline": true,
+      "label": "physical-ai",
+      "permalink": "/blog/tags/physical-ai"
+    },
+    {
+      "inline": true,
+      "label": "reinforcement-learning",
+      "permalink": "/blog/tags/reinforcement-learning"
+    },
+    {
+      "inline": true,
+      "label": "embodied-learning",
+      "permalink": "/blog/tags/embodied-learning"
+    }
+  ],
+  "readingTime": 6.75,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Machine Learning for Physical Systems: Learning from Embodied Experience",
+    "date": "2025-02-10T00:00:00.000Z",
+    "tags": [
+      "machine-learning",
+      "physical-ai",
+      "reinforcement-learning",
+      "embodied-learning"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Human-Robot Interaction: Designing for Natural Collaboration",
+    "permalink": "/blog/2025/02/15/human-robot-interaction"
+  },
+  "nextItem": {
+    "title": "Control Systems: Orchestrating Intelligent Physical Behavior",
+    "permalink": "/blog/2025/02/05/control-systems"
+  }
+}

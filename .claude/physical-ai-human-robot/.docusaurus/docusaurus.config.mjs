@@ -30,8 +30,8 @@ export default {
   },
   "url": "https://your-docusaurus-site.example.com",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "paraschohan",
+  "projectName": "AI-PROJECT",
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",
@@ -47,7 +47,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/paraschohan/AI-PROJECT/edit/main/"
         },
         "blog": {
           "showReadingTime": true,
@@ -58,7 +58,7 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          "editUrl": "https://github.com/paraschohan/AI-PROJECT/edit/main/blog/",
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
           "onUntruncatedBlogPosts": "warn"
@@ -95,7 +95,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/paraschohan/AI-PROJECT",
           "label": "GitHub",
           "position": "right"
         }
@@ -119,11 +119,11 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/paraschohan/AI-PROJECT"
             },
             {
               "label": "X (Twitter)",
-              "href": "https://x.com/docusaurus"
+              "href": "https://x.com/your-handle"
             },
             {
               "label": "LinkedIn",

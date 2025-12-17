@@ -1,0 +1,52 @@
+{
+  "permalink": "/blog/2025/02/25/smart-materials-programmable-matter",
+  "editUrl": "https://github.com/paraschohan/AI-PROJECT/edit/main/blog/blog/2025-02-25-smart-materials-programmable-matter.md",
+  "source": "@site/blog/2025-02-25-smart-materials-programmable-matter.md",
+  "title": "Smart Materials and Programmable Matter: Engineering Physical Intelligence",
+  "description": "Smart materials are materials that have one or more properties that can be significantly changed in a controlled fashion by external stimuli, such as stress, temperature, moisture, pH, electric or magnetic fields. In the context of Physical AI, smart materials represent a revolutionary approach to embedding intelligence directly into the material properties themselves, creating systems where the boundary between software intelligence and material properties becomes increasingly blurred.",
+  "date": "2025-02-25T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "smart-materials",
+      "permalink": "/blog/tags/smart-materials"
+    },
+    {
+      "inline": true,
+      "label": "programmable-matter",
+      "permalink": "/blog/tags/programmable-matter"
+    },
+    {
+      "inline": true,
+      "label": "metamaterials",
+      "permalink": "/blog/tags/metamaterials"
+    },
+    {
+      "inline": true,
+      "label": "physical-ai",
+      "permalink": "/blog/tags/physical-ai"
+    }
+  ],
+  "readingTime": 7.37,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Smart Materials and Programmable Matter: Engineering Physical Intelligence",
+    "date": "2025-02-25T00:00:00.000Z",
+    "tags": [
+      "smart-materials",
+      "programmable-matter",
+      "metamaterials",
+      "physical-ai"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Brain-Computer Interfaces: Direct Neural Control of Physical Systems",
+    "permalink": "/blog/2025/03/01/brain-computer-interfaces"
+  },
+  "nextItem": {
+    "title": "Robotics: The Physical Foundation of Artificial Intelligence",
+    "permalink": "/blog/2025/02/20/robotics-physical-foundation"
+  }
+}

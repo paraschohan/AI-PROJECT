@@ -1,0 +1,53 @@
+{
+  "permalink": "/blog/2025/01/20/history-embodied-intelligence",
+  "editUrl": "https://github.com/paraschohan/AI-PROJECT/edit/main/blog/blog/2025-01-20-history-embodied-intelligence.md",
+  "source": "@site/blog/2025-01-20-history-embodied-intelligence.md",
+  "title": "A Brief History of Embodied Intelligence: From Cybernetics to Modern Robotics",
+  "description": "The roots of Physical AI can be traced back to the early days of cybernetics and robotics. In the 1940s and 1950s, pioneers like Norbert Wiener and W. Grey Walter explored the connections between control systems, feedback loops, and intelligent behavior. Their work laid the foundation for the idea that intelligence is not just about abstract computation, but also about the dynamic interplay between an agent and its environment.",
+  "date": "2025-01-20T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "history",
+      "permalink": "/blog/tags/history"
+    },
+    {
+      "inline": true,
+      "label": "cybernetics",
+      "permalink": "/blog/tags/cybernetics"
+    },
+    {
+      "inline": false,
+      "label": "Embodied Intelligence",
+      "permalink": "/blog/tags/embodied-intelligence",
+      "description": "Exploring embodied intelligence in robotics"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/blog/tags/robotics"
+    }
+  ],
+  "readingTime": 3.9,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "A Brief History of Embodied Intelligence: From Cybernetics to Modern Robotics",
+    "date": "2025-01-20T00:00:00.000Z",
+    "tags": [
+      "history",
+      "cybernetics",
+      "embodied-intelligence",
+      "robotics"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Why Physical AI Matters",
+    "permalink": "/blog/2025/01/25/why-physical-ai-matters"
+  },
+  "nextItem": {
+    "title": "Introduction to Physical AI: Where Intelligence Meets the Physical World",
+    "permalink": "/blog/2025/01/15/introduction-to-physical-ai"
+  }
+}

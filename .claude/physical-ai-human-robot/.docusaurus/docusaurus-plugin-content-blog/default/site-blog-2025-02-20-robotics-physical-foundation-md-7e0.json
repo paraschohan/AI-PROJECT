@@ -1,0 +1,52 @@
+{
+  "permalink": "/blog/2025/02/20/robotics-physical-foundation",
+  "editUrl": "https://github.com/paraschohan/AI-PROJECT/edit/main/blog/blog/2025-02-20-robotics-physical-foundation.md",
+  "source": "@site/blog/2025-02-20-robotics-physical-foundation.md",
+  "title": "Robotics: The Physical Foundation of Artificial Intelligence",
+  "description": "Robotics is a field of engineering and science that deals with the design, construction, operation, and use of robots. In the context of Physical AI, robotics provides the essential physical platform that allows artificial intelligence to interact with and affect the physical world. Without robotics, AI would remain confined to digital spaces; robotics provides the body that enables AI to become truly embodied and physically interactive.",
+  "date": "2025-02-20T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/blog/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "physical-ai",
+      "permalink": "/blog/tags/physical-ai"
+    },
+    {
+      "inline": true,
+      "label": "automation",
+      "permalink": "/blog/tags/automation"
+    },
+    {
+      "inline": true,
+      "label": "mechatronics",
+      "permalink": "/blog/tags/mechatronics"
+    }
+  ],
+  "readingTime": 5.8,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Robotics: The Physical Foundation of Artificial Intelligence",
+    "date": "2025-02-20T00:00:00.000Z",
+    "tags": [
+      "robotics",
+      "physical-ai",
+      "automation",
+      "mechatronics"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Smart Materials and Programmable Matter: Engineering Physical Intelligence",
+    "permalink": "/blog/2025/02/25/smart-materials-programmable-matter"
+  },
+  "nextItem": {
+    "title": "Human-Robot Interaction: Designing for Natural Collaboration",
+    "permalink": "/blog/2025/02/15/human-robot-interaction"
+  }
+}

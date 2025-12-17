@@ -1,0 +1,48 @@
+{
+  "permalink": "/blog/2025/01/15/introduction-to-physical-ai",
+  "editUrl": "https://github.com/paraschohan/AI-PROJECT/edit/main/blog/blog/2025-01-15-introduction-to-physical-ai.md",
+  "source": "@site/blog/2025-01-15-introduction-to-physical-ai.md",
+  "title": "Introduction to Physical AI: Where Intelligence Meets the Physical World",
+  "description": "Physical AI, also known as Embodied AI, represents a paradigm shift from traditional digital-only AI systems to intelligent agents that interact with the physical world through a body. Unlike conventional AI that operates purely in the digital realm, Physical AI systems have a physical presence that allows them to perceive their environment through sensors and act upon it using actuators.",
+  "date": "2025-01-15T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "physical-ai",
+      "permalink": "/blog/tags/physical-ai"
+    },
+    {
+      "inline": false,
+      "label": "Embodied Intelligence",
+      "permalink": "/blog/tags/embodied-intelligence",
+      "description": "Exploring embodied intelligence in robotics"
+    },
+    {
+      "inline": false,
+      "label": "Introduction",
+      "permalink": "/blog/tags/introduction",
+      "description": "Introduction to Physical AI and Human-Robot Interaction"
+    }
+  ],
+  "readingTime": 2.71,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Introduction to Physical AI: Where Intelligence Meets the Physical World",
+    "date": "2025-01-15T00:00:00.000Z",
+    "tags": [
+      "physical-ai",
+      "embodied-intelligence",
+      "introduction"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "A Brief History of Embodied Intelligence: From Cybernetics to Modern Robotics",
+    "permalink": "/blog/2025/01/20/history-embodied-intelligence"
+  },
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/blog/welcome"
+  }
+}

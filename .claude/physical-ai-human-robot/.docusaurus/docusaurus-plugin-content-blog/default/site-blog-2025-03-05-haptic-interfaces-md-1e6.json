@@ -1,0 +1,48 @@
+{
+  "permalink": "/blog/2025/03/05/haptic-interfaces",
+  "editUrl": "https://github.com/paraschohan/AI-PROJECT/edit/main/blog/blog/2025-03-05-haptic-interfaces.md",
+  "source": "@site/blog/2025-03-05-haptic-interfaces.md",
+  "title": "Haptic Interfaces: The Sense of Touch in AI Systems",
+  "description": "Haptic interfaces encompass technologies that create the sensation of touch through forces, vibrations, or motions applied to the user. In the context of Physical AI, these technologies enable AI systems to communicate information through the tactile channel, creating bidirectional communication where humans can feel AI decisions and AI systems can sense human touch responses. This tactile communication is fundamental to natural human-robot interaction and safe physical collaboration.",
+  "date": "2025-03-05T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "haptics",
+      "permalink": "/blog/tags/haptics"
+    },
+    {
+      "inline": true,
+      "label": "tactile-feedback",
+      "permalink": "/blog/tags/tactile-feedback"
+    },
+    {
+      "inline": true,
+      "label": "human-computer-interaction",
+      "permalink": "/blog/tags/human-computer-interaction"
+    },
+    {
+      "inline": true,
+      "label": "physical-ai",
+      "permalink": "/blog/tags/physical-ai"
+    }
+  ],
+  "readingTime": 6.9,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Haptic Interfaces: The Sense of Touch in AI Systems",
+    "date": "2025-03-05T00:00:00.000Z",
+    "tags": [
+      "haptics",
+      "tactile-feedback",
+      "human-computer-interaction",
+      "physical-ai"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Brain-Computer Interfaces: Direct Neural Control of Physical Systems",
+    "permalink": "/blog/2025/03/01/brain-computer-interfaces"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "permalink": "/blog/2025/02/05/control-systems",
+  "editUrl": "https://github.com/paraschohan/AI-PROJECT/edit/main/blog/blog/2025-02-05-control-systems.md",
+  "source": "@site/blog/2025-02-05-control-systems.md",
+  "title": "Control Systems: Orchestrating Intelligent Physical Behavior",
+  "description": "A control system is a system that manages, commands, directs, or regulates the behavior of other devices or systems using control loops. In the context of Physical AI, a control system is responsible for controlling the movement and actions of the AI's body based on the information it receives from its sensors. The development of sophisticated control systems is essential for creating capable Physical AI systems that can interact intelligently with the physical world.",
+  "date": "2025-02-05T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "control-systems",
+      "permalink": "/blog/tags/control-systems"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/blog/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "automation",
+      "permalink": "/blog/tags/automation"
+    },
+    {
+      "inline": true,
+      "label": "physical-ai",
+      "permalink": "/blog/tags/physical-ai"
+    }
+  ],
+  "readingTime": 5.33,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Control Systems: Orchestrating Intelligent Physical Behavior",
+    "date": "2025-02-05T00:00:00.000Z",
+    "tags": [
+      "control-systems",
+      "robotics",
+      "automation",
+      "physical-ai"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Machine Learning for Physical Systems: Learning from Embodied Experience",
+    "permalink": "/blog/2025/02/10/machine-learning-physical-systems"
+  },
+  "nextItem": {
+    "title": "Sensors and Actuators: The Senses and Muscles of Physical AI",
+    "permalink": "/blog/2025/02/01/sensors-actuators"
+  }
+}

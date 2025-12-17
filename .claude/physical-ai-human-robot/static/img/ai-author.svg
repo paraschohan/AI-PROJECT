@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#f0f8ff" stroke="#cccccc" stroke-width="2"/>
+
+  <!-- Head -->
+  <circle cx="100" cy="80" r="30" fill="#ffffff" stroke="#999999" stroke-width="2"/>
+
+  <!-- Face with AI elements -->
+  <circle cx="85" cy="75" r="6" fill="#66ccff" stroke="#333333" stroke-width="1"/> <!-- Left eye with circuit pattern -->
+  <circle cx="115" cy="75" r="6" fill="#66ccff" stroke="#333333" stroke-width="1"/> <!-- Right eye with circuit pattern -->
+  
+  <!-- Circuit pattern in eyes -->
+  <path d="M83 73 h4 v4 h-4 z" fill="#333333"/>
+  <path d="M113 73 h4 v4 h-4 z" fill="#333333"/>
+
+  <!-- Mouth/LED display -->
+  <rect x="90" y="90" width="20" height="5" rx="2" ry="2" fill="#ff6666"/>
+
+  <!-- Body -->
+  <rect x="70" y="110" width="60" height="50" rx="5" ry="5" fill="#ffffff" stroke="#999999" stroke-width="2"/>
+
+  <!-- Chest panel with circuit design -->
+  <rect x="80" y="120" width="40" height="20" rx="3" ry="3" fill="#e6f3ff" stroke="#6699cc" stroke-width="1"/>
+  <path d="M90 125 h20 M90 130 h20 M90 135 h20" stroke="#6699cc" stroke-width="1"/>
+
+  <!-- Arms -->
+  <line x1="70" y1="125" x2="50" y2="140" stroke="#999999" stroke-width="3"/>
+  <line x1="130" y1="125" x2="150" y2="140" stroke="#999999" stroke-width="3"/>
+
+  <!-- AI symbol on chest -->
+  <circle cx="100" cy="130" r="5" fill="none" stroke="#336699" stroke-width="1"/>
+  <line x1="97" y1="127" x2="103" y2="133" stroke="#336699" stroke-width="1"/>
+  <line x1="103" y1="127" x2="97" y2="133" stroke="#336699" stroke-width="1"/>
+  
+  <!-- Antenna -->
+  <line x1="100" y1="50" x2="100" y2="35" stroke="#999999" stroke-width="2"/>
+  <circle cx="100" cy="33" r="4" fill="#66ccff" stroke="#333333" stroke-width="1"/>
+</svg>

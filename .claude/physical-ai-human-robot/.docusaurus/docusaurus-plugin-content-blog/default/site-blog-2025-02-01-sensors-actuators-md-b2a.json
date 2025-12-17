@@ -1,0 +1,52 @@
+{
+  "permalink": "/blog/2025/02/01/sensors-actuators",
+  "editUrl": "https://github.com/paraschohan/AI-PROJECT/edit/main/blog/blog/2025-02-01-sensors-actuators.md",
+  "source": "@site/blog/2025-02-01-sensors-actuators.md",
+  "title": "Sensors and Actuators: The Senses and Muscles of Physical AI",
+  "description": "Sensors and actuators are the two main components that allow a Physical AI to interact with the physical world. Sensors are devices that detect and measure physical properties of the environment, such as light, sound, temperature, and pressure. This information is then used by the AI to make decisions and take actions. Actuators are devices that convert electrical signals into physical motion. They are used to control the movement of the AI's body, such as its limbs, wheels, or wings.",
+  "date": "2025-02-01T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "sensors",
+      "permalink": "/blog/tags/sensors"
+    },
+    {
+      "inline": true,
+      "label": "actuators",
+      "permalink": "/blog/tags/actuators"
+    },
+    {
+      "inline": true,
+      "label": "hardware",
+      "permalink": "/blog/tags/hardware"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/blog/tags/robotics"
+    }
+  ],
+  "readingTime": 4.41,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Sensors and Actuators: The Senses and Muscles of Physical AI",
+    "date": "2025-02-01T00:00:00.000Z",
+    "tags": [
+      "sensors",
+      "actuators",
+      "hardware",
+      "robotics"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Control Systems: Orchestrating Intelligent Physical Behavior",
+    "permalink": "/blog/2025/02/05/control-systems"
+  },
+  "nextItem": {
+    "title": "Why Physical AI Matters",
+    "permalink": "/blog/2025/01/25/why-physical-ai-matters"
+  }
+}

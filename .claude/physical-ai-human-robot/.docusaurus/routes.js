@@ -39,7 +39,62 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'b2f'),
+    component: ComponentCreator('/blog', '4d1'),
+    exact: true
+  },
+  {
+    path: '/blog/2025/01/15/introduction-to-physical-ai',
+    component: ComponentCreator('/blog/2025/01/15/introduction-to-physical-ai', '0f2'),
+    exact: true
+  },
+  {
+    path: '/blog/2025/01/20/history-embodied-intelligence',
+    component: ComponentCreator('/blog/2025/01/20/history-embodied-intelligence', '31a'),
+    exact: true
+  },
+  {
+    path: '/blog/2025/01/25/why-physical-ai-matters',
+    component: ComponentCreator('/blog/2025/01/25/why-physical-ai-matters', '511'),
+    exact: true
+  },
+  {
+    path: '/blog/2025/02/01/sensors-actuators',
+    component: ComponentCreator('/blog/2025/02/01/sensors-actuators', 'c31'),
+    exact: true
+  },
+  {
+    path: '/blog/2025/02/05/control-systems',
+    component: ComponentCreator('/blog/2025/02/05/control-systems', '140'),
+    exact: true
+  },
+  {
+    path: '/blog/2025/02/10/machine-learning-physical-systems',
+    component: ComponentCreator('/blog/2025/02/10/machine-learning-physical-systems', 'f0f'),
+    exact: true
+  },
+  {
+    path: '/blog/2025/02/15/human-robot-interaction',
+    component: ComponentCreator('/blog/2025/02/15/human-robot-interaction', '473'),
+    exact: true
+  },
+  {
+    path: '/blog/2025/02/20/robotics-physical-foundation',
+    component: ComponentCreator('/blog/2025/02/20/robotics-physical-foundation', '6ea'),
+    exact: true
+  },
+  {
+    path: '/blog/2025/02/25/smart-materials-programmable-matter',
+    component: ComponentCreator('/blog/2025/02/25/smart-materials-programmable-matter', 'b3f'),
+    exact: true
+  },
+  {
+    path: '/blog/2025/03/01/brain-computer-interfaces',
+    component: ComponentCreator('/blog/2025/03/01/brain-computer-interfaces', '6f3'),
+    exact: true
+  },
+  {
+    path: '/blog/2025/03/05/haptic-interfaces',
+    component: ComponentCreator('/blog/2025/03/05/haptic-interfaces', '8e0'),
     exact: true
   },
   {
@@ -50,16 +105,6 @@ export default [
   {
     path: '/blog/authors',
     component: ComponentCreator('/blog/authors', '0b7'),
-    exact: true
-  },
-  {
-    path: '/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '4a1'),
-    exact: true
-  },
-  {
-    path: '/blog/authors/yangshun',
-    component: ComponentCreator('/blog/authors/yangshun', 'a68'),
     exact: true
   },
   {
@@ -78,8 +123,43 @@ export default [
     exact: true
   },
   {
+    path: '/blog/page/2',
+    component: ComponentCreator('/blog/page/2', '9cb'),
+    exact: true
+  },
+  {
     path: '/blog/tags',
     component: ComponentCreator('/blog/tags', '287'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/actuators',
+    component: ComponentCreator('/blog/tags/actuators', '298'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/automation',
+    component: ComponentCreator('/blog/tags/automation', '9e7'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/brain-computer-interfaces',
+    component: ComponentCreator('/blog/tags/brain-computer-interfaces', 'e92'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/collaboration',
+    component: ComponentCreator('/blog/tags/collaboration', '08b'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/control-systems',
+    component: ComponentCreator('/blog/tags/control-systems', '83e'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/cybernetics',
+    component: ComponentCreator('/blog/tags/cybernetics', '2cc'),
     exact: true
   },
   {
@@ -88,8 +168,33 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/embodied-intelligence',
+    component: ComponentCreator('/blog/tags/embodied-intelligence', 'bad'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/embodied-learning',
+    component: ComponentCreator('/blog/tags/embodied-learning', '338'),
+    exact: true
+  },
+  {
     path: '/blog/tags/facebook',
     component: ComponentCreator('/blog/tags/facebook', '858'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/haptics',
+    component: ComponentCreator('/blog/tags/haptics', '4ee'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/hardware',
+    component: ComponentCreator('/blog/tags/hardware', 'bf8'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/hci',
+    component: ComponentCreator('/blog/tags/hci', '417'),
     exact: true
   },
   {
@@ -98,8 +203,93 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/history',
+    component: ComponentCreator('/blog/tags/history', '1e5'),
+    exact: true
+  },
+  {
     path: '/blog/tags/hola',
     component: ComponentCreator('/blog/tags/hola', '00d'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/hri',
+    component: ComponentCreator('/blog/tags/hri', '6fd'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/human-computer-interaction',
+    component: ComponentCreator('/blog/tags/human-computer-interaction', '079'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/human-robot-interaction',
+    component: ComponentCreator('/blog/tags/human-robot-interaction', '2b6'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/introduction',
+    component: ComponentCreator('/blog/tags/introduction', 'b22'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/machine-learning',
+    component: ComponentCreator('/blog/tags/machine-learning', '67f'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/mechatronics',
+    component: ComponentCreator('/blog/tags/mechatronics', '474'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/metamaterials',
+    component: ComponentCreator('/blog/tags/metamaterials', 'dd4'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/neural-interfaces',
+    component: ComponentCreator('/blog/tags/neural-interfaces', '46a'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/physical-ai',
+    component: ComponentCreator('/blog/tags/physical-ai', '4fa'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/programmable-matter',
+    component: ComponentCreator('/blog/tags/programmable-matter', '15c'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/reinforcement-learning',
+    component: ComponentCreator('/blog/tags/reinforcement-learning', '0aa'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/robotics',
+    component: ComponentCreator('/blog/tags/robotics', '3f7'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/sensors',
+    component: ComponentCreator('/blog/tags/sensors', 'b64'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/smart-materials',
+    component: ComponentCreator('/blog/tags/smart-materials', '3e4'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/social-robotics',
+    component: ComponentCreator('/blog/tags/social-robotics', 'f22'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/tactile-feedback',
+    component: ComponentCreator('/blog/tags/tactile-feedback', '2cb'),
     exact: true
   },
   {

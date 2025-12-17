@@ -1,19 +1,11 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+pphysical-ai:
+  label: Physical AI
+  description: All about Physical AI
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+embodied-intelligence:
+  label: Embodied Intelligence
+  description: Exploring embodied intelligence in robotics
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+introduction:
+  label: Introduction
+  description: Introduction to Physical AI and Human-Robot Interaction

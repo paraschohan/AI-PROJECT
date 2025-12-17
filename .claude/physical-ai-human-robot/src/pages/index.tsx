@@ -155,7 +155,7 @@ function AuthorBioSection() {
         <div className="row">
           <div className="col col--10 col--offset-1">
             <div className={styles.authorBioContent}>
-              <img src="/img/docusaurus.png" alt="Author Photo" className={styles.authorPhoto} />
+              <img src="/img/ai-author.svg" alt="AI Author" className={styles.authorPhoto} />
               <div className={styles.authorText}>
                 <Heading as="h2" className={styles.authorName}>About the Author</Heading>
                 <p className={styles.authorDescription}>

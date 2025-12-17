@@ -1,0 +1,61 @@
+{
+  "permalink": "/blog/2025/01/25/why-physical-ai-matters",
+  "editUrl": "https://github.com/paraschohan/AI-PROJECT/edit/main/blog/blog/2025-01-25-why-physical-ai-matters.md",
+  "source": "@site/blog/2025-01-25-why-physical-ai-matters.md",
+  "title": "Why Physical AI Matters",
+  "description": "Understanding the importance of Physical AI in human-robot interaction",
+  "date": "2025-01-25T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "physical-ai",
+      "permalink": "/blog/tags/physical-ai"
+    },
+    {
+      "inline": false,
+      "label": "Embodied Intelligence",
+      "permalink": "/blog/tags/embodied-intelligence",
+      "description": "Exploring embodied intelligence in robotics"
+    },
+    {
+      "inline": false,
+      "label": "Introduction",
+      "permalink": "/blog/tags/introduction",
+      "description": "Introduction to Physical AI and Human-Robot Interaction"
+    }
+  ],
+  "readingTime": 0.03,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Physical AI Team",
+      "title": "Human–Robot Intelligence",
+      "url": "https://example.com",
+      "imageURL": "/img/authors/physical-ai-team.png",
+      "key": "physical-ai-team",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "title": "Why Physical AI Matters",
+    "authors": [
+      "physical-ai-team"
+    ],
+    "tags": [
+      "physical-ai",
+      "embodied-intelligence",
+      "introduction"
+    ],
+    "description": "Understanding the importance of Physical AI in human-robot interaction",
+    "date": "2025-01-25T00:00:00.000Z"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Sensors and Actuators: The Senses and Muscles of Physical AI",
+    "permalink": "/blog/2025/02/01/sensors-actuators"
+  },
+  "nextItem": {
+    "title": "A Brief History of Embodied Intelligence: From Cybernetics to Modern Robotics",
+    "permalink": "/blog/2025/01/20/history-embodied-intelligence"
+  }
+}

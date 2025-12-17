@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Robot body -->
+  <rect x="70" y="60" width="60" height="80" rx="10" ry="10" fill="#cccccc" stroke="#999999" stroke-width="2"/>
+  
+  <!-- Robot head -->
+  <rect x="85" y="30" width="30" height="30" rx="8" ry="8" fill="#dddddd" stroke="#999999" stroke-width="2"/>
+  
+  <!-- Robot eyes -->
+  <circle cx="95" cy="42" r="3" fill="#333333"/>
+  <circle cx="105" cy="42" r="3" fill="#333333"/>
+  
+  <!-- Robot mouth -->
+  <rect x="97" y="50" width="6" height="2" rx="1" ry="1" fill="#333333"/>
+  
+  <!-- Robot arms -->
+  <rect x="55" y="70" width="15" height="8" rx="3" ry="3" fill="#cccccc" stroke="#999999" stroke-width="2"/>
+  <rect x="130" y="70" width="15" height="8" rx="3" ry="3" fill="#cccccc" stroke="#999999" stroke-width="2"/>
+  
+  <!-- Book -->
+  <rect x="110" y="80" width="35" height="25" rx="2" ry="2" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+  <rect x="112" y="82" width="8" height="21" fill="#ff6b6b"/>
+  <rect x="122" y="85" width="15" height="3" fill="#333333"/>
+  <rect x="122" y="90" width="15" height="3" fill="#333333"/>
+  <rect x="122" y="95" width="15" height="3" fill="#333333"/>
+  
+  <!-- Robot antenna -->
+  <line x1="100" y1="30" x2="100" y2="20" stroke="#999999" stroke-width="2"/>
+  <circle cx="100" cy="18" r="3" fill="#ff6b6b"/>
+</svg>
