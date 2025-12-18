@@ -298,6 +298,11 @@ export default [
     exact: true
   },
   {
+    path: '/chatbotInjector',
+    component: ComponentCreator('/chatbotInjector', 'e98'),
+    exact: true
+  },
+  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', '3d7'),
     exact: true

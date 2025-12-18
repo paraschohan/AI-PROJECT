@@ -69,6 +69,9 @@ export default {
       }
     ]
   ],
+  "clientModules": [
+    "./src/components/chatbotInjector.js"
+  ],
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "colorMode": {
@@ -377,7 +380,6 @@ export default {
   "scripts": [],
   "headTags": [],
   "stylesheets": [],
-  "clientModules": [],
   "titleDelimiter": "|",
   "noIndex": false,
   "markdown": {

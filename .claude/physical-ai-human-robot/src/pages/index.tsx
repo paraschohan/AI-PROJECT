@@ -5,6 +5,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
+import PhysicalAIChatbot from '../components/Chatbot/PhysicalAIChatbot';
 
 const KeyFeaturesList = [
   {
@@ -124,6 +125,7 @@ function BlurbSection() {
 
 export default function Home(): React.ReactElement {
   const {siteConfig} = useDocusaurusContext();
+
   return (
     <Layout
       title="Home"
@@ -143,7 +145,9 @@ export default function Home(): React.ReactElement {
         <QuoteSection />
         <AuthorBioSection />
         <EmailSignupSection />
+        <CheatbotInfoSection />
       </main>
+      <PhysicalAIChatbot />
     </Layout>
   );
 }
@@ -180,6 +184,74 @@ function EmailSignupSection() {
           <input type="email" placeholder="Your email address" className={styles.emailInput} />
           <button type="submit" className="button button--primary button--lg">Subscribe</button>
         </form>
+      </div>
+    </div>
+  );
+}
+
+function CheatbotInfoSection() {
+  return (
+    <div className={styles.cheatbotInfoSection} style={{
+      padding: '2rem 0',
+      backgroundColor: '#f8fafc',
+      marginTop: '2rem'
+    }}>
+      <div className="container">
+        <div className="row">
+          <div className="col col--8 col--offset-2">
+            <div style={{
+              textAlign: 'center',
+              padding: '1.5rem',
+              backgroundColor: 'white',
+              borderRadius: '12px',
+              boxShadow: '0 4px 12px rgba(0,0,0,0.05)'
+            }}>
+              <h2 style={{ color: 'var(--ifm-color-primary)', marginBottom: '1rem' }}>Physical AI Cheatbot</h2>
+              <p style={{
+                fontSize: '1.1rem',
+                lineHeight: '1.6',
+                color: '#4b5563',
+                marginBottom: '1rem'
+              }}>
+                Need quick answers? Our <strong>Cheatbot</strong> is here to help!
+                Click the robot icon at the bottom right to ask questions about Physical AI,
+                robotics, brain-computer interfaces, smart materials, ethics, or any other topic.
+              </p>
+              <div style={{
+                display: 'flex',
+                justifyContent: 'center',
+                gap: '1.5rem',
+                flexWrap: 'wrap',
+                marginTop: '1rem'
+              }}>
+                <div style={{
+                  backgroundColor: '#eef2ff',
+                  padding: '0.8rem 1.2rem',
+                  borderRadius: '8px',
+                  fontSize: '0.9rem'
+                }}>
+                  <strong>🤖 Instant Help</strong><br/>Get answers in seconds
+                </div>
+                <div style={{
+                  backgroundColor: '#e0f2fe',
+                  padding: '0.8rem 1.2rem',
+                  borderRadius: '8px',
+                  fontSize: '0.9rem'
+                }}>
+                  <strong>📚 Book Content</strong><br/>Based on the Physical AI book
+                </div>
+                <div style={{
+                  backgroundColor: '#dcfce7',
+                  padding: '0.8rem 1.2rem',
+                  borderRadius: '8px',
+                  fontSize: '0.9rem'
+                }}>
+                  <strong>💡 General Questions</strong><br/>Can answer any question
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );

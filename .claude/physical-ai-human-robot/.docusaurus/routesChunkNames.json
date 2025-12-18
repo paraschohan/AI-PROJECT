@@ -768,10 +768,17 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
+  "/chatbotInjector-e98": {
+    "__comp": "__comp---site-src-pages-chatbot-injector-tsxd-83-c97",
+    "__context": {
+      "plugin": "plugin---chatbot-injectora-74-6e0"
+    },
+    "config": "config---chatbot-injector-5-e-9-27c"
+  },
   "/markdown-page-3d7": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "plugin---chatbot-injectora-74-6e0"
     },
     "content": "content---markdown-page-393-028"
   },
@@ -943,8 +950,8 @@
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "plugin---chatbot-injectora-74-6e0"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---chatbot-injector-5-e-9-27c"
   }
 }

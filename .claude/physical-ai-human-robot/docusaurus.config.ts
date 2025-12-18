@@ -68,6 +68,10 @@ const config: Config = {
     ],
   ],
 
+  clientModules: [
+    './src/components/chatbotInjector.js',
+  ],
+
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
