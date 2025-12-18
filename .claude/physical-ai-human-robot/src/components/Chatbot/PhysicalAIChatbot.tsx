@@ -3,6 +3,7 @@ import clsx from 'clsx';
 import styles from './PhysicalAIChatbot.module.css';
 import { searchBookContent, physicalAIBookContent } from './PhysicalAIBookContent';
 
+
 interface Message {
   id: string;
   text: string;
